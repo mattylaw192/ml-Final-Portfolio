@@ -1631,8 +1631,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #4829B2;
-  border-color: #4829B2; }
+  background-color: #54AF5D;
+  border-color: #54AF5D; }
   .btn-primary:hover {
     color: #fff;
     background-color: #3b2293;
@@ -14596,7 +14596,7 @@ body [class*="container"] .row:not(:last-child) {
   right: 0;
   bottom: 0;
   left: 0;
-  background: #4829B2;
+  /* background: #4829B2; */
   z-index: 45; }
 
 .split-background {
